@@ -7,8 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e",
-    "build-prod": "ng build --output-hashing=bundles --configuration=production --source-map=false --base-href /trunfo/ --deploy-url /trunfo/"
+    "e2e": "ng e2e"
   },
   "private": true,
   "dependencies": {
